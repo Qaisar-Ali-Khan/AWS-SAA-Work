@@ -9,7 +9,7 @@ CloudFormation Stack → YAML Template → EC2 Instance
 
 Stack picture 
 
-(Stack.png)
+![EC2 CloudFormation Architecture](Stack.jpg)
 
 What I Learned
 
