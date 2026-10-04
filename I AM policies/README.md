@@ -14,7 +14,7 @@ By default, the user was unable to access or modify either object.
 
 
 
-![Initial Access Denied](initial-denied.png)
+![Initial Access Denied](initial-denied.jpg)
 
 
 
@@ -24,7 +24,7 @@ I created an IAM policy using CloudFormation that allowed access to the "dogs" o
 
 
 
-![Selective Object Access](selective-access.png)
+![Selective Object Access](selective-access.jpg)
 
 
 
@@ -34,7 +34,7 @@ Afterward, I manually attached another inline IAM policy that granted access to 
 
 
 
-![Inline Policy Attached](inline-policy.png)
+![Inline Policy Attached](inline-policy.jpg)
 
 What I Learned
 
